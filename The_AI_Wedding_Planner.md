@@ -1,24 +1,3 @@
----
-marp: true
-theme: default
-paginate: true
-backgroundColor: '#ffffff'
-style: |
-  section {
-    font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
-    font-size: 22px;
-  }
-  h1 { color: #c0392b; font-size: 42px; }
-  h2 { color: #2c3e50; font-size: 32px; border-bottom: 3px solid #e74c3c; padding-bottom: 8px; }
-  h3 { color: #e74c3c; }
-  table { font-size: 18px; width: 100%; }
-  th { background-color: #2c3e50; color: white; }
-  tr:nth-child(even) { background-color: #f9f9f9; }
-  .highlight { color: #e74c3c; font-weight: bold; }
-  blockquote { border-left: 5px solid #e74c3c; background: #fdf2f2; padding: 12px 20px; }
-  code { background: #f0f0f0; padding: 2px 6px; border-radius: 4px; }
----
-
 <!-- _backgroundColor: '#2c3e50' -->
 <!-- _color: white -->
 
